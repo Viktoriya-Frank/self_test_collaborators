@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "67d41616bad8dbfd01c338c0"
+  },
+  "name": "Stanislav",
+  "age": 27,
+  "skills": [
+    "React",
+    "MongoDB"
+  ],
+  "city": "Moosburg an der Isar"
+},
+{
+  "_id": {
+    "$oid": "67d4186d3fc9d481b0d928e1"
+  },
+  "name": "Alice",
+  "age": 28,
+  "skills": [
+    "Python",
+    "Django"
+  ],
+  "city": "New York"
+},
+{
+  "_id": {
+    "$oid": "67d4186d3fc9d481b0d928e2"
+  },
+  "name": "Bob",
+  "age": 38,
+  "skills": [
+    "Java",
+    "Spring"
+  ],
+  "city": "London"
+},
+{
+  "_id": {
+    "$oid": "67d4186d3fc9d481b0d928e3"
+  },
+  "name": "David",
+  "age": 35,
+  "skills": [
+    "C++",
+    "QA"
+  ],
+  "city": "Berlin"
+}]
